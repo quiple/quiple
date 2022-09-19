@@ -5,3 +5,5 @@
 [![](https://img.shields.io/badge/-f24e1e?logo=figma&logoColor=white)](https://www.figma.com/@quiple)
 [![](https://img.shields.io/badge/-000000?logo=steam&logoColor=white)](https://steamcommunity.com/id/quiple)
 [![](https://img.shields.io/badge/-1db954?logo=spotify&logoColor=white)](https://open.spotify.com/user/nbkx34piq6kbwbb6zfbqdfgro)
+
+[![GitHub User's stars](https://img.shields.io/github/stars/quiple?style=social)](https://github.com/quiple)
