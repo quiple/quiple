@@ -1,3 +1,3 @@
 > No Event, Good Life!
 
-![](https://github-readme-stats.vercel.app/api?username=quiple)
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=quiple)
