@@ -1,3 +1,3 @@
 > No Event, Good Life!
 
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=quiple)
+![Minseo Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=quiple&show_icons=true)
